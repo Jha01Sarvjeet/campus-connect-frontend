@@ -10,8 +10,8 @@ const LoginOverlay = () => {
     >
       <div className="text-center">
         <div className="mb-8">
-          <h1 className="mb-2 text-4xl font-bold text-white">Signing you in...</h1>
-          <p className="text-lg text-indigo-100">Please wait while we sign you in</p>
+          <h1 className="mb-2 text-4xl font-bold text-white">Getting Login  ...</h1>
+          <p className="text-lg text-indigo-100">Please wait while we log in</p>
         </div>
         <div className="text-white">
           <Loader size="lg" text="Signing you in securely..." />
