@@ -14,7 +14,7 @@ const LoginOverlay = () => {
           <p className="text-lg text-indigo-100">Please wait while we log in</p>
         </div>
         <div className="text-white">
-          <Loader size="lg" text="Signing you in securely..." />
+          <Loader size="lg" text="Getting Login ecurely..." />
         </div>
       </div>
     </div>
